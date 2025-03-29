@@ -31,14 +31,14 @@ This structured data could be saved or used for further natural language analysi
 Weather data was scraped from an HTML table and converted into a Pandas DataFrame. All values were cleaned and converted to appropriate types (`int`, `float`, `datetime`) for analysis.
 
 ### 🌡️ Minimum Temperature
-- **Coldest month on Mars**: Month X  
-- **Warmest month on Mars**: Month Y  
+- **Coldest month on Mars**: Month 3  
+- **Warmest month on Mars**: Month 8  
 
 Monthly averages show that Mars experiences a noticeable seasonal temperature pattern.
 
 ### 🌬️ Atmospheric Pressure
-- **Lowest pressure month**: Month X  
-- **Highest pressure month**: Month Y  
+- **Lowest pressure month**: Month 6  
+- **Highest pressure month**: Month 10  
 
 Atmospheric pressure also changes with the Martian seasons, likely due to polar ice cap activity and dust storms.
 
